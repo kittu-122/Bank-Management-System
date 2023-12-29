@@ -43,6 +43,7 @@ To set up the database, execute the SQL scripts provided in the database directo
 2) Explore different functionalities through the provided Java files for balance enquiry, deposits, withdrawals, etc.
 
 *Contributing*
+
 Feel free to contribute to the development of this Bank Management System. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 *Thank you for choosing this project. Hoping that this project  proves useful and delivers a seamless experience for your needs!*
